@@ -1,2 +1,2 @@
 # SoundmapGenerator
-Code used to generate soundamap information visualization
+Code used to generate *soundmap* information visualization
